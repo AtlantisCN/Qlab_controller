@@ -1,0 +1,14 @@
+{
+  "name": "QLAB_A_2022X",
+  "vendorProductId": 1097531398,
+  "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
+  "layers": [
+    ["RGB_TOG", "KC_UP", "KC_DOWN", "KC_ESC", "KC_P", "KC_SPC"],
+    ["KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS", "KC_TRNS"],
+    ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"],
+    ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"],
+    ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"],
+    ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"],
+    ["KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO", "KC_NO"]
+  ]
+}

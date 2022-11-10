@@ -1,0 +1,17 @@
+{
+ "name": "QLAB_B_2022X" ,
+  "vendorId": "0x416B",
+  "productId": "0x0007",
+  "lighting": "qmk_rgblight",
+  "matrix": { "rows": 1, "cols": 6 },
+  "layouts": 
+  {
+    "keymap": 
+ [
+ [{"w": 1, "h":1.5},"0,1",   "0,0",  {"w": 1, "h":1.5},"0,2"],
+ [{"y":0.75},"0,3", "0,4", "0,5"]
+ ]
+  }
+}
+
+
